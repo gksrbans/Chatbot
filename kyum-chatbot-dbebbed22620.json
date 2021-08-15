@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kyum-chatbot",
+  "private_key_id": "dbebbed22620ff32cf8304c498d77f6391bd4bc4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwZWGlFFnPEVlN\ng4z3Pqixs3yd/l1hftWFZtTyQbpJ6/53z6AqZU+nLtgHyOISPaqwh1A49akuRBFd\ns+0m3Fd0DjSMqShcCybj7pd5zi77Tzdni2BrFZQkJgQHyTMNxLAnq0VDIx1pod5r\nrWOgpsa9S2hRm4TddSyg6YKHXrDPE8g+FVgx85Pgw0PPRiAAjpt1MDjko11rypDW\nA3pDMJHfuGhTscuR7zgZn/qgVKyLl61xyNOCufsvd/luXa60mZjVmIn3ARY6TfYv\nrH8fKJOxZJsOLkwUobysLv0fC+oOHgmKOP+snLBXFzDsgt/gx1TbLub6824kZC3i\nTQfHG3M7AgMBAAECggEAAh/+iKQRnuZ5Gm9yw8m784QThL27N0D1ZomCGDcFfP18\nT8ovBkO5LWzpilJ3sruOclj29PC0rIuCYAwaV8UAwrOnG2iwRUeXHNjTd1KuCzX9\nl2A89Z1JbxQMKWHZnRlY++layL/EC3E5QjfRAu7vZvlhFNaYR6ixNHELswDHhX8U\n1SVPjRJJW8F4iBdAYbZv1Fk0rI24B8gHFbkyfL5NZwRdg65+QTfZ9kIHYU7MNbpA\n8H5zIO82aSREyNxO1r6RIj/BWGmiweU2u94LZSHtdl6PsnfA88wBzWo50hH0RfAy\nvVS9CqUGOTzzylPQAYuGd6EExOHecVAxVEc9wd6ydQKBgQD3T0PpSN4y7nsYKf82\nySQAIvFq7pLQDHlK59aDFENYuIZEj/wvH0qbonakcV0hdFC9Ep/xLvbLZx4FkUtz\nshTJGf6EYTKgtatOO4nvLEkzi0irOIhTbKYqMbvyjZPoG9uUBKrg9FjEFvTTWDlB\nU754WOyKYbR6ZLL9l5Ss4B/unwKBgQC2mDH/Z5iQHKcVk4NkxQNRTGW1O9B8BkpY\nVN+P7VVDGfoIgwSWiu2CptR/vb53857rlve4NiUAAI01e8OyKCm8LM2MQlEUOzNk\n9++RrLqKsTULjItogg7VTOHcRAtuxN+A3HZ9mkATE331ZwVBX6Du8P9GGE84wZgD\nOs8KnOeh5QKBgQDTruVSKS0IK1jxtgDdxA0skLxT6yF/My4fD5JtYErFBiznQtd4\n/i++R7GF0AMHP6hcLjT5HFnigMERwuvye9uOxtE0Pn43UUjwDcZjEmUV2YK6DAmk\nXrtcInXdh5GyeyXX7KbXJk9UiNHGlR1s7WF7YaIWUMtKeCc9KSH5V139wQKBgAUs\ngNYs2EzVEwLwgBud3X8zO/qLrFenUfn4xbDtV6okFUqic8HUQ/Ccy46nELuTYqBo\nUbKdjiTW3ylxzVTCAJS9bEGaK3P4TXeB8v7ctxhw9wDRxa17afIvUIMORoin+XFM\nTes3MLOZrMsEVUjJ7eR3XbRdwfjou2b0BqPVWFblAoGBAM2fku0YbBcWlciUlaeS\njf8i850NL8ByWMvFmkVi7dTSEqg/b0EYk8k/CHboyo2PHQP1ddfxptzEwu+rOZRu\n5Tv9/KrKw3T8MNhV8it8ZwDRGZDvLUI/TzgGnvJsTHxXUKWXAYKtGtyrgJKXdUC8\nR7JRTin7uLnTsuBuBw5D4QnJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "kyum-chat-bot@kyum-chatbot.iam.gserviceaccount.com",
+  "client_id": "112958275913730560865",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kyum-chat-bot%40kyum-chatbot.iam.gserviceaccount.com"
+}
